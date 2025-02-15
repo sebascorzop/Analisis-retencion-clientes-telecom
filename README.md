@@ -10,8 +10,8 @@ Presentado por:
 1. Descargue el archivo "Solución guía 2 grupo 1.ipynb"
 2. Cargue este archivo en Google Drive
 3. Ejecute el archivo usando Google Collab. 
-4. Ejecute la Celda 1 y 2 del código para importar las librerías necesarias y crear el directorio donde se incorporará el dataset.
+4. Ejecute la celda 1 y 2 del código para importar las librerías necesarias y crear el directorio donde se incorporará el dataset.
 5. Descargue el archivo "telecom_churn.csv
-6. Cargue el archivo en "telecom_churn.csv" en la carpeta "Guía2"
+6. Cargue el archivo en "telecom_churn.csv" dando click derecho > subir en la carpeta "Guía2", en el módulo "Archivos" que puede encontrar en el panel de la izquierda de Google Collab
 7. Ejecute la celda 3 del código.
 8. Ejecute el código restante.
